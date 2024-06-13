@@ -2,7 +2,7 @@
 
 ## Tree (Árvore)
 
- WHAT'S TREE?
+Uma árvore é uma estrutura de dados hierárquica que consiste em nós conectados por arestas. Cada nó contém um valor ou dado e pode ter zero ou mais nós filhos
 
 ## Propriedades Matemáticas
 
